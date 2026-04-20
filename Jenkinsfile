@@ -18,4 +18,5 @@ pipeline {
         echo 'deplying the app...'
       }
     }
+  }
 }
